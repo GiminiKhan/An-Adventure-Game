@@ -1,0 +1,1 @@
+This is a simple Adventure Game project in Typescript.
